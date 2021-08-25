@@ -1,8 +1,6 @@
 # Test
 test
 
-Some thing to comment on for the test PR
+This line is better now
 
 Another thing that's fine
-
-Bad thing
